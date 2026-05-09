@@ -1,0 +1,35 @@
+Leszállítandók összefoglalva
+1. Kód
+2. 10-15 oldalas dokumentáció
+3. PPT
+4. Videó
+
+Kód
+1. Adatbetöltés és adattisztítás (osztály inbalance kezelés legyen benne!) - Anna, Máté
+2. Leíró statisztikai feltáró elemzés - Beni
+3. Tanító - teszt halmaz felbontása - Anna, Máté
+4. Logit - Anna
+3. Döntési fa - Beni
+5. RandomForest - Beni
+6. Gradientboosting, XGBoost - Máté
+7. NaiveBayes - Máté 
+8. SVM - Anna
+9. Extrák: ábrák (seaborn, matplotlib, plotly) - mindenki a sajátjához minimum teljesítménymutatók és egy egy ábra (pl.: ROC)
+
+Dokumentáció
+1. Basic alap részek összeírása - pl.: Dataset infók, probléma leírása, van a kaggle-n leírás és 138 kód referencia - Beni
+2. Adattisztítás leírása - Anna, Máté
+3. Leíró statisztikai elemzés leírása - Beni
+4. Tanító - teszt halmaz leírása (mi alapján, indoklás) - Anna, Máté
+5. Egyes épített modellek leírása (miért ezt választottuk / miért releváns, rövid leírás hogyan építettük fel és mit használtunk hozzá, output elemzése, ábrák) - Anna, Beni, Máté (mindenki a sajátját)
+6. Modellek összehasonlítása - Máté
+
+PPT
+5. PPT megcsinálása a dokumentáció alapján + szöveg amit fel kell olvasni - Anna
+
+MINDENNEK A HATÁRIDEJE: 2025.05.16 10:00!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
