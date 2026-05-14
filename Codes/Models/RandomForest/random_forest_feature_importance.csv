@@ -1,0 +1,9 @@
+Feature,Importance
+rotational_speed_rpm,0.2982270506740902
+torque_nm,0.2977310186513564
+tool_wear_min,0.2022571988828881
+temperature_difference_k,0.09061692863197153
+air_temperature_k,0.05367755769180224
+process_temperature_k,0.04275977463983569
+type_L,0.008144017237844935
+type_M,0.00658645359021102

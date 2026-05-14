@@ -1,0 +1,6 @@
+Metric,Train mean,Validation mean
+Accuracy,0.9922,0.9804
+Precision,0.828,0.7073
+Recall,0.9733,0.7195
+F1-score,0.8946,0.7127
+ROC-AUC,0.9985,0.9724
