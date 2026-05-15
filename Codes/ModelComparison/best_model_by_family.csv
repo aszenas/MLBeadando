@@ -1,0 +1,8 @@
+model_family,model,version,threshold_type,threshold,accuracy,precision,recall,f1_score,roc_auc,average_precision,source_file,selection_note
+Gradient Boosting,GradientBoosting,baseline,,,0.9895,0.912280701754386,0.7647058823529411,0.832,0.9761105529168188,0.8665322243699349,boosting_results_tuned.csv,Existing model result row
+Random Forest,RandomForest,final,default_or_final,,0.987,0.8088,0.8088,0.8088,0.9629,,random_forest_final_results.csv,Final result file
+XGBoost,XGBoost_tuned,tuned,,,0.9855,0.7671232876712328,0.8235294117647058,0.7943262411347518,0.9768222506393862,0.8682512998759242,boosting_results_tuned.csv,Existing model result row
+SVM,SVM_threshold_best,threshold_best,optimized,0.35,0.984,0.8,0.7059,0.75,0.9734,,svm_threshold_comparison.csv,Best threshold selected by F1-score
+Decision Tree,DecisionTree_threshold_best,threshold_best,optimized,0.7,0.9685,0.5258,0.75,0.6182,,,decision_tree_threshold_comparison.csv,Best threshold selected by F1-score
+Logistic Regression,LogisticRegression_threshold_best,threshold_best,optimized,0.15,0.9575,0.4105,0.5735,0.4785,0.9001,,logreg_threshold_comparison.csv,Best threshold selected by F1-score
+Naive Bayes,BernoulliNB_tuned,threshold_tuned,optimized,0.29,0.943,0.3230769230769231,0.6176470588235294,0.4242424242424242,0.8907334672999635,0.3047085775574845,naive_bayes_results_tuned.csv,Existing model result row

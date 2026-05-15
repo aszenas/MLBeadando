@@ -1,0 +1,4 @@
+selection_criterion,model_family,model,precision,recall,f1_score,roc_auc
+Best F1-score,Gradient Boosting,GradientBoosting,0.912280701754386,0.7647058823529411,0.832,0.9761105529168188
+Best recall,XGBoost,XGBoost_tuned,0.7671232876712328,0.8235294117647058,0.7943262411347518,0.9768222506393862
+Best precision,Gradient Boosting,GradientBoosting,0.912280701754386,0.7647058823529411,0.832,0.9761105529168188
